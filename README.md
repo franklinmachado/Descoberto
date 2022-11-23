@@ -50,7 +50,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 |Cadastro Completo de Usuários  |  |
 |Cupons de desconto | |
 | Vouchers | |
-| Jogos | |
+| Jogos | Roleta, clique do usuário, resultado do sorteio, notificações.|
 | Acesso diário | |
 
 ## Backlog Refinement (User Story)
