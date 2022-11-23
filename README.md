@@ -6,7 +6,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 
 ---
 ## Funcionalidades
-- [x] Cadastro.
+- [x] Cadastro facil.
 - [x] Cupons de desconto liberados pelas lojas.
 - [x] Conversão dos cupons em VOUCHERS.
 - [x] Compras com o voucher. 
@@ -30,6 +30,8 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | 5 | Jogos | #SP2 |
 | 6 | Acesso diário para cupons extras | #SP2 |
 
+---
+
 ## Critérios de Aceitação
 | #|Feature Jogo|
 | --- | --- |
@@ -42,7 +44,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 |Ação | Usuário usa o aplicativo diariamente para marcar presença e juntar mais cupons.  |
 |Processo | Fazer check-in diário no aplicativo.  |
 |Resultado  | Obter pontos para serem trocados por cupons.
-
+---
 ## Features menores
 | Feature| Partes|
 | --- | --- | 
@@ -52,7 +54,20 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Vouchers | |
 | Jogos | |
 | Acesso diário | |
-
+---
+## User Story
+| User story points ||
+| --- | --- |
+| Projeto : Descoberto, App de desconto do adalberto |
+| Historias | pontuação |
+| Cadastro Básico de Usuários | 8 |
+| Cadastro Completo de Usuários | 13 |
+| Cupons de desconto | 21 |
+| VOUCHERS | 34 |
+| Jogos | 89 |
+| Acesso diário para cupons extras | 55 |
+| total | 144 |
+---
 ## Backlog Refinement (User Story)
 | Story # .. | Jogo | 
 | --- | --- | 
