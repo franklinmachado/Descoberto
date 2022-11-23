@@ -47,7 +47,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Feature| Partes|
 | --- | --- | 
 |Cadastro Básico de Usuários  | E-mail, senha, confirmação de senha, verificação de e-mail, captcha, cupom de primeiro acesso.  |
-|Cadastro Completo de Usuários  |  |
+|Cadastro Completo de Usuários  | Nome completo, data de nascimento, cpf, endereço, telefone, sexo. |
 |Cupons de desconto | |
 | Vouchers | |
 | Jogos | |
