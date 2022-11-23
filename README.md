@@ -52,9 +52,8 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 |Cadastro Completo de Usuários  | Nome completo, data de nascimento, cpf, endereço, telefone, sexo. |
 |Cupons de desconto | |
 | Vouchers | |
-
 | Jogos | Roleta, clique do usuário, resultado do sorteio, notificações.|
-| Acesso diário | |
+| Acesso diário | Calendário para check-in, acumulador de pontuação, notificações. |
 ---
 ## User Story
 | User story points ||
