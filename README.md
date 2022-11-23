@@ -56,7 +56,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Acesso diário | Calendário para check-in, acumulador de pontuação, notificações. |
 ---
 ## User Story
-| User story points ||
+| User Points Stories ||
 | --- | --- |
 | Projeto : Descoberto, App de desconto do adalberto |
 | Historias | pontuação |
@@ -69,13 +69,13 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | total | 144 |
 ---
 ## Backlog Refinement (User Story)
-| Story # .. | Jogo | 
+| Story #5 | Jogo | 
 | --- | --- | 
 | Descritivo  | Eu como usuário quero ganhar pontos ou cupons de maneira simples e divertida.   |
 | Justificativa  | |
 | Solução  | |
 
-| Story # .. | Acesso diário | 
+| Story #6 | Acesso diário | 
 | --- | --- | 
 | Descritivo | Eu como usuário quero juntar pontos todos os dias para trocar por cupons.  |
 | Justificativa  | Estimular o usuário a acessar o app todos os dias. |
