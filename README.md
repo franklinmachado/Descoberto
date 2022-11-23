@@ -32,10 +32,10 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 
 ## Critérios de Aceitação
 | #|Feature Jogo|
-| --- | --- | 
-|Ação | Usuário quer mais cupons de forma rápida. |
-|Processo | Rodar a roleta diariamente ou por n tentativas. |
-|Resultado  | Recebe cupons ou pontos para serem trocados para um cupom. |
+| --- | --- |
+|Ação | Usuário quer mais cupons e de forma rápida. |
+|Processo | Roda a roleta diariamente e/ou por "n" tentativas. |
+|Resultado | Recebe cupons ou pontos para serem trocados para um voucher. |
 
 | #|Feature Acesso diário|
 | --- | --- | 
