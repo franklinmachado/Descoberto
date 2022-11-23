@@ -51,7 +51,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 |Cupons de desconto | |
 | Vouchers | |
 | Jogos | |
-| Acesso diário | |
+| Acesso diário | Calendário para check-in, acumulador de pontuação, notificações. |
 
 ## Backlog Refinement (User Story)
 | Story # .. | Jogo | 
@@ -60,8 +60,8 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Justificativa  | |
 | Solução  | |
 
-| Story # .. | Jogo | 
+| Story # .. | Acesso diário | 
 | --- | --- | 
-| Descritivo |   |
-| Justificativa  | |
-| Solução  | |
+| Descritivo | Eu como usuário quero juntar pontos todos os dias para trocar por cupons.  |
+| Justificativa  | Estimular o usuário a acessar o app todos os dias. |
+| Solução  | <ul><li>Abrir calendário todo dia no primeiro acesso do usuário.</li><li>Usuário seleciona data atual.</li><li>Acumula pontos na conta do usuário.</li><li>Zerar pontuação por não acesso contínuo por 7 dias ao app.</li><li>Ao fim de 7 dias, usuário pode trocar por cupom.</li></ul> |
