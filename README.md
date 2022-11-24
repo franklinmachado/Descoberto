@@ -88,8 +88,8 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Story #5      | Jogo                                                                          |
 | ------------- | ----------------------------------------------------------------------------- |
 | Descritivo    | Eu como usuário quero ganhar pontos ou cupons de maneira simples e divertida. |
-| Justificativa | Estimula o usuário a utilizar mais o aplicativo para ganhar mais cupons|
-| Solução | <li>Usuário participa de um game de probabilidade e ganha pontos ou cupons|
+| Justificativa | Motivar o usúario por meio do jogo a acessar o app e ganhar pontos ou cupons|
+| Solução |  <ul><li>Usuário acessa o app para jogar</li><li>Clica no botão para girar a role</li><li>Contabiliza pontos ou cupons na conta do usuário</li><li>Bloqueia os usuários por um tempo</li></ul>|
 
 | Story #6      | Acesso diário                                                                                                                   |
 | --- | --- |
