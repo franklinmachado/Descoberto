@@ -88,11 +88,11 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | Story #5      | Jogo                                                                          |
 | ------------- | ----------------------------------------------------------------------------- |
 | Descritivo    | Eu como usuário quero ganhar pontos ou cupons de maneira simples e divertida. |
-| Justificativa |                                                                               |
-| Solução       |                                                                               |
+| Justificativa | Estimula o usuário a utilizar mais o aplicativo para ganhar mais cupons|
+| Solução | <li>Usuário participa de um game de probabilidade e ganha pontos ou cupons|
 
-| Story #6      | Acesso diário                                                                                                                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Descritivo    | Eu como usuário quero juntar pontos todos os dias para trocar por cupons.                                                                                                                                                                                                                |
+| Story #6      | Acesso diário                                                                                                                   |
+| --- | --- |
+| Descritivo    | Eu como usuário quero juntar pontos todos os dias para trocar por cupons.                                                                                                                                                                                         |
 | Justificativa | Estimular o usuário a acessar o app todos os dias.                                                                                                                                                                                                                                       |
 | Solução       | <ul><li>Abrir calendário todo dia no primeiro acesso do usuário.</li><li>Usuário seleciona data atual.</li><li>Acumula pontos na conta do usuário.</li><li>Zerar pontuação por não acesso contínuo por 7 dias ao app.</li><li>Ao fim de 7 dias, usuário pode trocar por cupom.</li></ul> |
