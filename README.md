@@ -84,7 +84,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | VOUCHERS                                           | 55        |
 | Jogos                                              | 89        |
 | Acesso diário para cupons extras                   | 13        |
-| total                                              | 233       |
+| Total                                              | 233       |
 
 ---
 
