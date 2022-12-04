@@ -25,7 +25,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 - [x] Ao avaliar produtos comprados de lojas parcerias ganha pontos. 
 - [x] Níveis de pontuação para quem tiver ranking.
 - [x] Sobre o app.
-- [x] FAQ. 
+- [x] Comunidade. 
 
 ---
 
@@ -39,7 +39,7 @@ Um aplicativo para obter cupons de desconto em lojas e esses cupons de desconto 
 | 4   | VOUCHERS                         | Alta       | #SP1   |
 | 5   | Jogos                            | Baixa      | #SP2   |
 | 6   | Acesso diário para cupons extras | Média      | #SP2   |
-| 7   | Faq                              | Baixa      | #SP3   |
+| 7   | Comunidade                              | Baixa      | #SP3   |
 
 ---
 
